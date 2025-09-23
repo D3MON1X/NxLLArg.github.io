@@ -6,15 +6,15 @@
   <style>
     body {
       background-color: #111;
-      color: #A020F0;
+      color: #ffffff;
       font-family: monospace;
       text-align: center;
       padding-top: 100px;
     }
     input, button {
       background-color: #000;
-      color: #A020F0;
-      border: 1px solid #A020F0;
+      color: #ffffff;
+      border: 1px solid #ffffff;
       padding: 10px;
       font-size: 16px;
     }
