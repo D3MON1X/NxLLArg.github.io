@@ -58,7 +58,7 @@
       if (secrets[input]) {
         messageDiv.textContent = secrets[input];
       } else {
-        messageDiv.textContent = "Invalid Password. Please try another.";
+        messageDiv.textContent = "you should try something else, that doesn't have any results.";
       }
     }
   </script>
