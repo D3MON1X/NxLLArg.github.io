@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>???</title>
+  <title>enter: nxll</title>
   <style>
     body {
       background-color: #111;
@@ -27,7 +27,7 @@
 </head>
 <body>
 
-  <h1>Greeting, D3MON1X_ Underworld</h1>
+  <h1>Greeting, D3MON1X Underworld</h1>
   <h2>DEFINE REALITY</h2>
   <input type="text" id="codeInput" placeholder="•••">
   <button onclick="checkCode()">Submit</button>
