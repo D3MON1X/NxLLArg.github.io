@@ -48,7 +48,7 @@
       "nick": "todo sobre ti es perfecto",
       "capsic": "you know passion is dangerous... right? ... you make passion safe.",
       "zankow": "you're greater than you know. greater than i see myself as... good luck, kid."
-      "styxsi": "You... i know what you are boun clover.",
+      "styxsi": "You... i know what you are boun clover."
     };
 
     function checkCode() {
