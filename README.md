@@ -30,7 +30,7 @@
   <h1>Greeting, D3MON1X Underworld</h1>
   <h2>DEFINE REALITY</h2>
   <input type="text" id="codeInput" placeholder="•••">
-  <button onclick="checkCode()">what are you looking for?</button>
+  <button onclick="checkCode()">submit</button>
   <div id="message"></div>
 
   <script>
