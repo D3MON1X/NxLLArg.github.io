@@ -1,20 +1,20 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>enter: nxll</title>
+  <title>???</title>
   <style>
     body {
       background-color: #111;
-      color: #ffffff;
+      color: #A020F0;
       font-family: monospace;
       text-align: center;
       padding-top: 100px;
     }
     input, button {
       background-color: #000;
-      color: #ffffff;
-      border: 1px solid #ffffff;
+      color: #A020F0;
+      border: 1px solid #A020F0;
       padding: 10px;
       font-size: 16px;
     }
@@ -27,28 +27,28 @@
 </head>
 <body>
 
-  <h1>Greeting, D3MON1X Underworld</h1>
-  <h2>DEFINE REALITY</h2>
+  <h1>GREETINGS. USER; MANCHI</h1>
+  <h2>PLEASE ENTER PASSWORD</h2>
   <input type="text" id="codeInput" placeholder="•••">
-  <button onclick="checkCode()">submit</button>
+  <button onclick="checkCode()">Submit</button>
   <div id="message"></div>
 
   <script>
     const secrets = {
-      "nxll": "im not what you want from me....",
-      "stardom": "look to the night, what do you see?",
-      "blair": "your own pain or tragedy",
-      "reality": "https://drive.google.com/file/d/1c4GvQGiK7CdPqTXPxDhtA_U0J6hWc_cw/view?usp=sharing",
-      "penitence": "https://drive.google.com/file/d/1ziSTjeiJXzrQ70-_HfwziUbxMJYEXBhc/view?usp=drive_link",
-      "flavor rave": "locked and loaded... RAVE!",
-      "komi": "https://www.youtube.com/watch?v=2L-XbWzOdoI",
-      "draco": "https://www.youtube.com/watch?v=2Ea7EfrRL8o",
-      "kris": "deltarune (btw kris this is ashley ooc i love you)",
-      "shads": "Daratike dirote hatimati",
-      "nick": "todo sobre ti es perfecto",
-      "capsic": "you know passion is dangerous... right? ... you make passion safe.",
-      "zankow": "you're greater than you know. greater than i see myself as... good luck, kid."
-      "styxsi": "You... i know what you are boun clover."
+      "passion": "Pathetic Scumbag. He deserved everything he went through.",
+      "manchi": "The GREATEST performer. No other can compete.",
+      "subscribe": "https://www.youtube.com/@SubToAnAveragePerson",
+      "average": "https://www.youtube.com/@SubToAnAveragePerson",
+      "puppetage": "Wrong universe, scum.",
+      "devil mario": "We have already WON.",
+      "herosnackz": "gives off sister vibes.",
+      "moros": "Sounds familiar, Where have I heard that name...?",
+      "sour": "Heard about this EDM star, he could be a problem.",
+      "sweet": "Heard some rumors about her being in a relationship with that Sour guy, she could be a problem as well.",
+      "basted": "🤠",
+      "styxsi": "HAI HAI HELLO HAI",
+      "password": "Your Kidding, right?",
+      "downfall": "https://docs.google.com/document/d/1iEz7jnQHbhvrBQa2BzdImWqR1AEm_UDFns2MQQ3GanU/edit?usp=sharing"
     };
 
     function checkCode() {
@@ -58,7 +58,7 @@
       if (secrets[input]) {
         messageDiv.textContent = secrets[input];
       } else {
-        messageDiv.textContent = "you should try something else, that doesn't have any results.";
+        messageDiv.textContent = "Invalid Password. Please try another.";
       }
     }
   </script>
