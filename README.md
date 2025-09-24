@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>???</title>
+  <title>NxLL ARG</title>
   <style>
     body {
       background-color: #111;
