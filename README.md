@@ -6,15 +6,15 @@
   <style>
     body {
       background-color: #111;
-      color: #A020F0;
+      color: #ffffffff;
       font-family: monospace;
       text-align: center;
       padding-top: 100px;
     }
     input, button {
       background-color: #000;
-      color: #A020F0;
-      border: 1px solid #A020F0;
+      color: #ffffff;
+      border: 1px solid #ffffffff;
       padding: 10px;
       font-size: 16px;
     }
@@ -27,28 +27,32 @@
 </head>
 <body>
 
-  <h1>GREETINGS. USER; MANCHI</h1>
-  <h2>PLEASE ENTER PASSWORD</h2>
-  <input type="text" id="codeInput" placeholder="•••">
-  <button onclick="checkCode()">Submit</button>
+  <h1>greetings, d3mon1x_ underworld</h1>
+  <h2>report your findings.</h2>
+  <input type="text" id="codeInput" placeholder="insert findings here">
+  <button onclick="checkCode()">enter.</button>
   <div id="message"></div>
 
   <script>
     const secrets = {
-      "passion": "Pathetic Scumbag. He deserved everything he went through.",
-      "manchi": "The GREATEST performer. No other can compete.",
-      "subscribe": "https://www.youtube.com/@SubToAnAveragePerson",
-      "average": "https://www.youtube.com/@SubToAnAveragePerson",
-      "puppetage": "Wrong universe, scum.",
-      "devil mario": "We have already WON.",
-      "herosnackz": "gives off sister vibes.",
-      "moros": "Sounds familiar, Where have I heard that name...?",
-      "sour": "Heard about this EDM star, he could be a problem.",
-      "sweet": "Heard some rumors about her being in a relationship with that Sour guy, she could be a problem as well.",
-      "basted": "🤠",
-      "styxsi": "HAI HAI HELLO HAI",
-      "password": "Your Kidding, right?",
-      "downfall": "https://docs.google.com/document/d/1iEz7jnQHbhvrBQa2BzdImWqR1AEm_UDFns2MQQ3GanU/edit?usp=sharing"
+      "nxll": "all i get looking at them is the phrase 'define reality'...",
+      "stardom": "look to the night, what do you see?",
+      "blair": "your own pain or tragedy",
+      "cian": "GINGERRRRRRRRRRRRRRRRRRRRRRR",
+      "reality": "https://drive.google.com/file/d/1c4GvQGiK7CdPqTXPxDhtA_U0J6hWc_cw/view?usp=sharing",
+      "penitence": "https://drive.google.com/file/d/1ziSTjeiJXzrQ70-_HfwziUbxMJYEXBhc/view?usp=drive_link",
+      "flavor rave": "locked and loaded... RAVE!",
+      "pale archives": "https://www.youtube.com/@TeamSpiceRack",
+      "komi": "https://www.youtube.com/watch?v=2L-XbWzOdoI",
+      "draco": "https://www.youtube.com/watch?v=2Ea7EfrRL8o",
+      "kris": "deltarune (btw kris this is ashley ooc i love you)",
+      "shads": "Daratike dirote hatimati",
+      "nick": "todo sobre ti es perfecto",
+      "zerobelow": "cassain... where is he... WHERE IS H-",
+      "paragon": "health... mirrors... that's all there is",
+      "capsic": "you know passion is dangerous... right? ... you make passion safe.",
+      "zankow": "you're greater than you know. greater than i see myself as... good luck, kid.",
+      "styxsi": "You... i know what you are boun clover."
     };
 
     function checkCode() {
@@ -58,7 +62,7 @@
       if (secrets[input]) {
         messageDiv.textContent = secrets[input];
       } else {
-        messageDiv.textContent = "Invalid Password. Please try another.";
+        messageDiv.textContent = "let's try something else, couldn't find anything here.";
       }
     }
   </script>
