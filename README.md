@@ -47,7 +47,7 @@
       "kris": "deltarune (btw kris this is ashley ooc i love you)",
       "shads": "Daratike dirote hatimati",
       "nick": "todo sobre ti es perfecto",
-      "zerobelow": "cassain... where is he... WHERE IS H-",
+      "zerobelow": "where is he... WHERE IS H-",
       "paragon": "health... mirrors... that's all there is",
       "capsic": "you know passion is dangerous... right? ... you make passion safe.",
       "zankow": "you're greater than you know. greater than i see myself as... good luck, kid.",
