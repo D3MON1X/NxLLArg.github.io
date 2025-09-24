@@ -45,6 +45,7 @@
       "komi": "https://www.youtube.com/watch?v=2L-XbWzOdoI",
       "draco": "https://www.youtube.com/watch?v=2Ea7EfrRL8o",
       "kris": "deltarune (btw kris this is ashley ooc i love you)",
+      "nexus": "deltarune (btw kris this is ashley ooc i love you)",
       "shads": "Daratike dirote hatimati",
       "nick": "todo sobre ti es perfecto",
       "zerobelow": "where is he... WHERE IS H-",
